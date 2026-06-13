@@ -165,6 +165,6 @@ This project helped me learn:
 
 ## Author
 
-Developed by Nilakshi 🚀
+Developed by Nilakshi 
 
 A Python project focused on inventory management, billing automation, and PDF receipt generation.
