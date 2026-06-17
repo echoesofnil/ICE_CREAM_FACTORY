@@ -67,7 +67,7 @@ ice_cream_factory() # Main program loop
 ### Clone Repository
 
 ```bash
-git clone https://github.com/your-username/ice-cream-factory.git
+git clone https://github.com/echoesofnil/ice-cream-factory.git
 ```
 
 ### Navigate to Project Folder
